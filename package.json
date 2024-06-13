@@ -1,0 +1,17 @@
+{
+  "name": "path_modifier",
+  "version": "1.0.0",
+  "description": "Path Modifier is a package utilizing and simplifying the functionalities of Node's built in path module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon",
+    "start": "node ."
+  },
+  "keywords": ["Path", "Modifier", "Parse", "Dirname", "Filename", "FullPath"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
