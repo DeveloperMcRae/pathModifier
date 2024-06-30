@@ -1,6 +1,6 @@
 {
-  "name": "path_modifier",
-  "version": "1.0.0",
+  "name": "mcrae-pm",
+  "version": "1.0.2",
   "description": "Path Modifier is a package utilizing and simplifying the functionalities of Node's built in path module.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "devStart": "nodemon",
     "start": "node ."
   },
-  "keywords": ["Path", "Modifier", "Parse", "Dirname", "Filename", "FullPath"],
+  "keywords": ["Path", "Modifier", "Parse", "Base", "Dirname", "Filename", "FullPath", "Root", "Directory", "Dir", "Extension", "Ext"],
   "author": "",
   "license": "ISC",
   "devDependencies": {

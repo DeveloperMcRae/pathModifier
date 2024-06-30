@@ -1,16 +1,5 @@
+"use strict"
 const root = __dirname
-const Modules = []
+const Mod = require (`${root}/Module`)
 
-Modules.push (require (`${root}/Modules/parse`).Parse)
-
-const Main = (data) =>
-{
-  this.parse = data.Modules[0]
-
-  return this
-}
-module.exports = Main
-
-const test = Main ({Modules})
-
-console.log (test)
+module.exports = Mod
