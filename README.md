@@ -1,4 +1,5 @@
-# path_modifier
+Path_Modifier
+------
 *Path Modifier is a package utilizing and simplifying the functionalities of Node's built in path module.*
 
 1. ### The original path entered.
