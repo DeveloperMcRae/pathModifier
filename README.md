@@ -6,9 +6,9 @@
 
 1. ### The original path entered.
 
-
-    getPath ()
 ---
+    getPath ()
+
 
 2. ### The root directory of the path.
 
