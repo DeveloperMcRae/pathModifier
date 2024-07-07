@@ -6,7 +6,7 @@
 
 1. ### The original path entered.
 
----
+
     getPath ()
 ---
 
