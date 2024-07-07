@@ -8,6 +8,12 @@ Install the NPM Package:
 ---
     npm i mcrae-pm
 
+Require the Package into your Node.js file:
+
+---
+    const variable = require (''mcrae-pm);
+
+
 1. ### The original path entered.
 
 ---
