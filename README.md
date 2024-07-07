@@ -3,6 +3,10 @@
 
 *Path Modifier is a package utilizing and simplifying the functionalities of Node's built in path module.*
 
+Install the NPM Package:
+
+---
+    npm i mcrae-pm
 
 1. ### The original path entered.
 
